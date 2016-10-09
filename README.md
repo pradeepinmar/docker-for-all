@@ -58,6 +58,7 @@ It is highly recommended to complete the fundamental concepts videos before movi
 |-------------------------------------|
 | [Docker Build Labels](https://vimeo.com/183234013)   - Build labels, microbadger etc. (13:53)         |  
 | [Docker bench security for docker hosts](https://vimeo.com/183236329) - Security best practices for deploying container in production(5:47)|  
+| [Docker Bash Completion Tips](https://vimeo.com/186178609) - Use bash completion insead of --help to move faster |  
 
 
 
